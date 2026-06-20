@@ -1,46 +1,27 @@
 # Gustavo Azevedo
 
-📍 São Paulo, SP, Brazil &nbsp;|&nbsp; 📧 [chagaseazevedo@gmail.com](mailto:chagaseazevedo@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-azevedo-chagas)
+Currently exploring the practical application of AI, governance, and agentic workflows to real business challenges and measurable business outcomes. MIT Sloan & CSAIL AI executive education.
 
-**Channel Business & Sales Executive | Partner Ecosystems, GTM Execution & AI-Enabled Commercial Leadership**
+Fractional CRO applying AI to augment commercial decision-making, GTM execution, account prioritization, forecasting, and revenue operations.
 
-*MIT Sloan AI Executive Education (2026) | Portuguese (Native) | English (Fluent) | Spanish (Fluent)*
+Commercial & GTM Sales Executive focused on partner ecosystems, revenue growth, and AI-enabled business execution.
 
-> Turning AI and ecosystem complexity into predictable pipeline, revenue growth and execution through disciplined GTM leadership.
+Former Dell Technologies leader with responsibility for a $501M partner-led business across LATAM, spanning Brazil, Mexico, Colombia, Argentina, Peru, Panama, and the Miami hub.
 
----
+## Currently Exploring
 
-## About
+* Business governance in the AI era
+* Agentic AI workflows and CEOaaS concepts applied to multi-industry business challenges
+* GTM systems that run on cadence, not heroics
+* The role of partner ecosystems across the AI stack and value chain
 
-I am a Channel Business and GTM Executive with 15+ years building and scaling partner-led businesses across Brazil and LATAM. Throughout my career, I have helped technology companies grow through VARs, Systems Integrators, Distributors and Services partners while supporting enterprise infrastructure, workforce modernization, digital transformation and security initiatives across SMB, Enterprise and Public Sector markets.
+## Learning
 
-At Dell Technologies, I co-designed the GTM playbooks that helped transform the Brazil channel business from **$162M to $755M**, expanded partner coverage from **100 to 1,000+ partners**, and later led a **$501M LATAM services business**, delivering **22 consecutive quarters above quota** while managing Channel Sales teams across multiple countries.
+* MIT Sloan & CSAIL — AI: Implications for Business Strategy
+* Building small things to understand how agents really behave
 
-Today, through **AZ Advisory**, I apply those lessons to the next generation of commercial execution — combining partner ecosystem leadership, revenue operating discipline, business agility and AI-enabled commercial intelligence to help organizations improve execution quality, forecast visibility, customer growth and revenue predictability.
+## Building
 
-My interests sit at the intersection of AI, GTM execution, partner ecosystems, revenue operations and business transformation — helping organizations translate technology opportunities into scalable commercial outcomes.
+AZ Advisory — applying these concepts to real revenue, growth, and execution challenges.
 
----
-
-## Current Focus
-
-- AI-enabled GTM execution and commercial intelligence
-- Partner ecosystems, alliances and co-sell motions
-- Revenue Operations and forecast governance
-- Business agility and operating cadence
-- Customer Success, Partner Success and revenue expansion
-- AI-enabled workflows for commercial teams
-
----
-
-## Education
-
-- 🎓 MIT Sloan School of Management & CSAIL — AI: Implications for Business Strategy (2026)
-- 📘 StartSe University — AI for Business Leaders (2025)
-- 🌎 Santa Monica College — International Marketing
-
----
-
-## Languages
-
-Portuguese (Native) | English (Fluent) | Spanish (Fluent)
+Always up for a conversation about AI, GTM, partner ecosystems, or why most AI strategies struggle to become operational reality. I'd love to connect, listen, learn, and exchange perspectives.
