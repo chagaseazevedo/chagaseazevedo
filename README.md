@@ -8,7 +8,7 @@
 
 🤝 Commercial & GTM Sales Executive focused on partner ecosystems, revenue growth, and AI-enabled business execution.
 
-🏢 Former Dell Technologies leader with responsibility for a $501M partner-led business across LATAM, spanning Brazil, Mexico, Colombia, Argentina, Peru, Panama, and the Miami hub.
+🏢 Former Dell Technologies Sales leader with responsibility for a $501M partner-led business across LATAM, spanning Brazil, Mexico, Colombia, Argentina, Peru, Panama, and the Miami hub.
 
 ## 🔍 Currently exploring
 
